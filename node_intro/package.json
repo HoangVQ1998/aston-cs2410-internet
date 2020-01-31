@@ -1,0 +1,17 @@
+{
+  "name": "node_intro",
+  "version": "0.1.0",
+  "description": "Introduction to nodejs",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Vinh Hoang",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^7.0.1"
+  }
+}
