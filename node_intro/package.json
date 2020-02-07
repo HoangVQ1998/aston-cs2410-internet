@@ -12,6 +12,12 @@
   "author": "Vinh Hoang",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.17.1",
+    "http-status": "^1.4.2",
     "mocha": "^7.0.1"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "superagent": "^5.2.1"
   }
 }
